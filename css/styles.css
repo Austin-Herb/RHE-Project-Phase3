@@ -1,0 +1,65 @@
+/* Austin Herb */
+/* Project 02 */
+
+.nav{
+    background-color: #dce7ef;
+}
+
+.middle{
+    background-color: #dce7ef;
+    padding-bottom: 0.5in;
+}
+
+.middle .col-head{
+    text-align: center;
+}
+
+body{
+    background-color: #dce7ef;
+}
+
+footer{
+    background-color: #dce7ef;
+    text-align: center; 
+}
+
+.col-sm ul li{
+    list-style-type: none;
+}
+
+.col-sm h5{
+    padding-left: 0.4in;
+}
+
+.col-sm p{
+    padding-left: 5px;
+    padding-right: 8px;
+}
+
+.col-sm h3{
+    text-align: center;
+}
+
+.col-head h3{
+    text-align: center;
+}
+
+.col-sm img{
+    height: 250px;
+    width: 325px;
+}
+
+.property_photo img{
+    height: 200px;
+    width: 250px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.property_details ul li{
+    list-style-type: circle;
+    text-align: left;
+    
+}
+
+
